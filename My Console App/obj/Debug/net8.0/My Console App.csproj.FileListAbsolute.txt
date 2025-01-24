@@ -1,0 +1,14 @@
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\bin\Debug\net8.0\My Console App.exe
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\bin\Debug\net8.0\My Console App.deps.json
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\bin\Debug\net8.0\My Console App.runtimeconfig.json
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\bin\Debug\net8.0\My Console App.dll
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\bin\Debug\net8.0\My Console App.pdb
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\obj\Debug\net8.0\My Console App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\obj\Debug\net8.0\My Console App.AssemblyInfoInputs.cache
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\obj\Debug\net8.0\My Console App.AssemblyInfo.cs
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\obj\Debug\net8.0\My Console App.csproj.CoreCompileInputs.cache
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\obj\Debug\net8.0\My Console App.dll
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\obj\Debug\net8.0\refint\My Console App.dll
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\obj\Debug\net8.0\My Console App.pdb
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\obj\Debug\net8.0\My Console App.genruntimeconfig.cache
+C:\Users\Victus Laptop\source\repos\My Console App\My Console App\obj\Debug\net8.0\ref\My Console App.dll

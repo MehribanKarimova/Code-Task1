@@ -147,7 +147,6 @@ if (isTriangle)
 else
     Console.WriteLine("This is not a triangle");
 */
-Console.Write("some changes");
 //Task 10
 /*
 Console.WriteLine("Enter the 4-digit number: ");
